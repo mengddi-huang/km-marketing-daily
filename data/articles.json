@@ -6,57 +6,141 @@
     "author": "reginajlren",
     "date": "2026-05-25",
     "link": "https://km.woa.com/articles/show/661225?jumpfrom=kmmcp",
-    "reads": "",
-    "likes": ""
+    "reads": "10",
+    "likes": "0",
+    "tags": "AI | 小游戏 | 素材",
+    "summary": "小游戏场景下AI素材生成与处理方案"
+  },
+  {
+    "id": "659922",
+    "direction": "素材生成",
+    "title": "MiniMax分词缺陷分析（基于官方素材）",
+    "author": "mikaelkang",
+    "date": "2026-05-09",
+    "link": "https://km.woa.com/articles/show/659922?jumpfrom=kmmcp",
+    "reads": "25",
+    "likes": "2",
+    "tags": "minimax | token",
+    "summary": "MiniMax模型分词缺陷深度分析，基于官方素材验证token切分问题"
   },
   {
     "id": "661236",
     "direction": "创意生成",
-    "title": "AIGC创意Vedas创意马拉松",
+    "title": "腾讯设计周 · 灵感流动 —— 设计大咖分享 × AIGC大V圆桌 × 鹅厂创意市集",
     "author": "snowyxie",
     "date": "2026-05-25",
     "link": "https://km.woa.com/articles/show/661236?jumpfrom=kmmcp",
-    "reads": "",
-    "likes": ""
+    "reads": "9",
+    "likes": "0",
+    "tags": "腾讯设计周",
+    "summary": "5月28-29日滨海4楼，设计大咖分享+AIGC圆桌+创意市集"
   },
   {
     "id": "660932",
     "direction": "创意生成",
-    "title": "tRPC-Agent Prompt自进化",
+    "title": "还在手动调Prompt？tRPC-Agent Optimize帮你一键启动Prompt自进化",
     "author": "ricknie",
     "date": "2026-05-21",
     "link": "https://km.woa.com/articles/show/660932?jumpfrom=kmmcp",
-    "reads": "",
-    "likes": ""
+    "reads": "262",
+    "likes": "15",
+    "tags": "agent | prompt-engineering | Agent评测",
+    "summary": "tRPC-Agent Optimize模块实现Prompt自动反思、改写、验证、择优迭代，内置GEPA算法"
+  },
+  {
+    "id": "660701",
+    "direction": "创意生成",
+    "title": "你的AI搭子-Vedas，让创意和效率更快",
+    "author": "v_ljyingluo",
+    "date": "2026-05-18",
+    "link": "https://km.woa.com/articles/show/660701?jumpfrom=kmmcp",
+    "reads": "87",
+    "likes": "0",
+    "tags": "AIGC+产品",
+    "summary": "Vedas创意平台课程资料，AIGC加速创意与效率"
+  },
+  {
+    "id": "660396",
+    "direction": "创意生成",
+    "title": "构建Claude Code的经验：Prompt Caching就是一切",
+    "author": "ziyazhang",
+    "date": "2026-05-14",
+    "link": "https://km.woa.com/articles/show/660396?jumpfrom=kmmcp",
+    "reads": "36",
+    "likes": "1",
+    "tags": "agent | Agent开发",
+    "summary": "Claude Code团队经验：Prompt Caching对Agent性能的关键影响"
+  },
+  {
+    "id": "660257",
+    "direction": "创意生成",
+    "title": "Prompt Injection：原理、攻击图谱与防御体系",
+    "author": "miloguo",
+    "date": "2026-05-12",
+    "link": "https://km.woa.com/articles/show/660257?jumpfrom=kmmcp",
+    "reads": "148",
+    "likes": "1",
+    "tags": "提示词注入防范 | Agent安全",
+    "summary": "系统梳理直接/间接注入、多智能体感染等攻击分类，附分层防御方案"
+  },
+  {
+    "id": "660174",
+    "direction": "创意生成",
+    "title": "从Prompt调教到AI知识系统：跨Agent共享底座迭代实战",
+    "author": "benhaoqu",
+    "date": "2026-05-12",
+    "link": "https://km.woa.com/articles/show/660174?jumpfrom=kmmcp",
+    "reads": "621",
+    "likes": "4",
+    "tags": "agent | 上下文管理器 | VibeCoding",
+    "summary": "跨Agent共享上下文底座的迭代实战，621阅读高热度"
   },
   {
     "id": "660842",
     "direction": "广告投放",
-    "title": "Demo广告投放Agent架构演进",
+    "title": "从Demo到生产：广告投放Agent的架构演进与落地实践",
     "author": "laynezhou",
     "date": "2026-05-20",
     "link": "https://km.woa.com/articles/show/660842?jumpfrom=kmmcp",
     "reads": "3204",
-    "likes": "157"
+    "likes": "157",
+    "tags": "广告投放 | Agent架构",
+    "summary": "半年从Demo到生产的广告投放Agent架构演进全历程，3204阅爆款"
+  },
+  {
+    "id": "659031",
+    "direction": "广告投放",
+    "title": "你的AI审计师-用WorkBuddy提效网媒广告投放数据核验",
+    "author": "lizrrwang",
+    "date": "2026-04-26",
+    "link": "https://km.woa.com/articles/show/659031?jumpfrom=kmmcp",
+    "reads": "152",
+    "likes": "8",
+    "tags": "数据分析师 | 审计 | OpenClaw",
+    "summary": "WorkBuddy+OpenClaw自动化广告投放数据核验，提效审计流程"
   },
   {
     "id": "660515",
     "direction": "营销活动",
-    "title": "广告投资策略",
+    "title": "商机智拓引擎——云业务的第二增长曲线",
     "author": "harrisxu",
     "date": "2026-05-15",
     "link": "https://km.woa.com/articles/show/660515?jumpfrom=kmmcp",
-    "reads": "",
-    "likes": ""
+    "reads": "16",
+    "likes": "3",
+    "tags": "商机挖掘 | 云计算",
+    "summary": "AI驱动全链路商机挖掘，从被动响应到主动出击的增收实践"
   },
   {
     "id": "660352",
     "direction": "营销活动",
-    "title": "RankUp架构",
+    "title": "RankUp架构设计与落地——广告推荐模型如何重塑高维大脑",
     "author": "elinjinchen",
     "date": "2026-05-13",
     "link": "https://km.woa.com/articles/show/660352?jumpfrom=kmmcp",
     "reads": "1598",
-    "likes": "49"
+    "likes": "49",
+    "tags": "RankUp | 广告推荐 | 模型架构",
+    "summary": "腾讯广告RankUp架构：解决大模型大而不精困境，重塑高维推荐"
   }
 ]

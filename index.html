@@ -110,7 +110,13 @@
   }
   .card-title {
     font-size: 15px; font-weight: 600; line-height: 1.5;
-    margin-bottom: 12px; color: var(--dark);
+    margin-bottom: 8px; color: var(--dark);
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card-summary {
+    font-size: 13px; line-height: 1.6; color: var(--gray-2);
+    margin-bottom: 12px;
     display: -webkit-box; -webkit-line-clamp: 2;
     -webkit-box-orient: vertical; overflow: hidden;
   }
@@ -313,10 +319,12 @@ function renderCardView(filtered) {
     items.sort((a,b) => b.date.localeCompare(a.date));
     items.forEach(a => {
       const hot = (parseInt(a.reads) > 1000) ? `<div class="card-hot">🔥 ${a.reads}阅</div>` : '';
+      const summaryHtml = a.summary ? `<div class="card-summary">${a.summary}</div>` : '';
       html += `
         <a class="card" href="${a.link}" target="_blank" style="text-decoration:none">
           ${hot}
           <div class="card-title">${a.title}</div>
+          ${summaryHtml}
           <div class="card-meta">
             <span class="author">${a.author}</span>
             <span class="dot">·</span>
@@ -346,10 +354,12 @@ function renderTimelineView(filtered) {
   let html = '<div class="timeline-section"><div class="timeline">';
   sorted.forEach(a => {
     const dir = DIRECTIONS.find(d => d.name === a.direction);
+    const summaryLine = a.summary ? `<div style="font-size:12px;color:var(--gray-2);margin-top:4px">${a.summary}</div>` : '';
     html += `
       <div class="timeline-item">
         <div class="timeline-date">${a.date} ${dir?.emoji || ''} ${a.direction}</div>
         <div class="timeline-title"><a href="${a.link}" target="_blank">${a.title}</a></div>
+        ${summaryLine}
         <div class="timeline-meta">${a.author}${a.reads ? ` · ${a.reads}阅` : ''}${a.likes ? ` · ${a.likes}赞` : ''}</div>
       </div>`;
   });
