@@ -1,5 +1,105 @@
 [
   {
+    "id": "662377",
+    "direction": "素材生成",
+    "title": "手工 prompt 到 Agentic 工程：腾讯地图信息流广告素材 AIGC 实战",
+    "author": "felicityzou, 共同作者: rickyshou",
+    "date": "2026-06-08",
+    "link": "https://km.woa.com/articles/show/662377?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662265",
+    "direction": "素材生成",
+    "title": "【IMate】更懂你的全网热点研判同事 2.0 来了！戳进来一键实现你的专属热点追踪、认知协作、7环节并发、热点素材库沉淀",
+    "author": "ruilinwu",
+    "date": "2026-06-05",
+    "link": "https://km.woa.com/articles/show/662265?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662377",
+    "direction": "创意生成",
+    "title": "手工 prompt 到 Agentic 工程：腾讯地图信息流广告素材 AIGC 实战",
+    "author": "felicityzou, 共同作者: rickyshou",
+    "date": "2026-06-08",
+    "link": "https://km.woa.com/articles/show/662377?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662130",
+    "direction": "创意生成",
+    "title": "别再一个个写 Prompt 了 —— 通用问题排查 Agent 的正确打开方式",
+    "author": "jackkhou",
+    "date": "2026-06-04",
+    "link": "https://km.woa.com/articles/show/662130?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "661943",
+    "direction": "创意生成",
+    "title": "【课程资料】PromptEngine 平台实战：让 Prompt 从经验调优走向工程化落地 | AI产品速递",
+    "author": "v_ozmawang, 共同作者: aikenliu",
+    "date": "2026-06-03",
+    "link": "https://km.woa.com/articles/show/661943?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662208",
+    "direction": "广告投放",
+    "title": "通讯主站 AI 智能体投放异常归因",
+    "author": "nicolekong",
+    "date": "2026-06-05",
+    "link": "https://km.woa.com/articles/show/662208?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662453",
+    "direction": "营销活动",
+    "title": "WorkBuddy 增长运营的「一人公司」实践交流",
+    "author": "jiayiiyang",
+    "date": "2026-06-09",
+    "link": "https://km.woa.com/articles/show/662453?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662092",
+    "direction": "营销活动",
+    "title": "AI 驱动的业务中台开发框架实践 ——海外内容营销平台项目总结",
+    "author": "qiaoanzhu",
+    "date": "2026-06-04",
+    "link": "https://km.woa.com/articles/show/662092?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "661339",
+    "direction": "创意生成",
+    "title": "Agent莫名返回你好我无法给到相关内容 联网搜索脏数据污染Prompt完整复盘",
+    "author": "avinyang",
+    "date": "2026-05-26",
+    "link": "https://km.woa.com/articles/show/661339?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "661266",
+    "direction": "创意生成",
+    "title": "【课件】AI GO！《30min带你玩转：YesPM — 创意孵化平台》",
+    "author": "v_yargao",
+    "date": "2026-05-26",
+    "link": "https://km.woa.com/articles/show/661266?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
     "id": "661225",
     "direction": "素材生成",
     "title": "小游戏AI素材处理",
