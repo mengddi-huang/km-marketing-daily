@@ -1,5 +1,25 @@
 [
   {
+    "id": "664204",
+    "direction": "创意生成",
+    "title": "【腾讯微创新奖20260506期】PromptEngine平台：让 Prompt / Agent / Skill 从手工调参走向工程化自动评估与迭代",
+    "author": "aikenliu",
+    "date": "2026-06-30",
+    "link": "https://km.woa.com/articles/show/664204?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664362",
+    "direction": "广告投放",
+    "title": "广告投放平台的 AI 重构系统探索",
+    "author": "michaelpei",
+    "date": "2026-07-02",
+    "link": "https://km.woa.com/articles/show/664362?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
     "id": "663960",
     "direction": "素材生成",
     "title": "zimage-ncnn 不止能文生图了，LanPaint 修图和 ControlNet 控图也来了！",
