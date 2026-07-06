@@ -1,5 +1,55 @@
 [
   {
+    "id": "662739",
+    "direction": "素材生成",
+    "title": "CodeBuddy × 混元生图实战：用 CLI Skill 一键出图",
+    "author": "fenneli",
+    "date": "2026-06-11",
+    "link": "https://km.woa.com/articles/show/662739?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "662738",
+    "direction": "素材生成",
+    "title": "腾讯云CLI × 混元生图实战：用一行命令生成图片",
+    "author": "fenneli",
+    "date": "2026-06-11",
+    "link": "https://km.woa.com/articles/show/662738?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664545",
+    "direction": "创意生成",
+    "title": "从 Prompt 到 Harness —— AI Bug 维修小队实践",
+    "author": "pigozhu",
+    "date": "2026-07-05",
+    "link": "https://km.woa.com/articles/show/664545?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664517",
+    "direction": "广告投放",
+    "title": "【腾讯广告】归因领域知识库的构建实践",
+    "author": "mattzwang",
+    "date": "2026-07-03",
+    "link": "https://km.woa.com/articles/show/664517?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664492",
+    "direction": "营销活动",
+    "title": "【AI产品增长】关于 AI 产品PMF 和冷启动的一些思考",
+    "author": "laurynluo",
+    "date": "2026-07-03",
+    "link": "https://km.woa.com/articles/show/664492?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
     "id": "664204",
     "direction": "创意生成",
     "title": "【腾讯微创新奖20260506期】PromptEngine平台：让 Prompt / Agent / Skill 从手工调参走向工程化自动评估与迭代",
