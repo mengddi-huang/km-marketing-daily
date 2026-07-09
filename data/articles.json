@@ -1,5 +1,45 @@
 [
   {
+    "id": "664740",
+    "direction": "创意生成",
+    "title": "深度解析 Prompt Cache 底层原理与工程实践",
+    "author": "chanyazhang",
+    "date": "2026-07-07",
+    "link": "https://km.woa.com/articles/show/664740?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664742",
+    "direction": "创意生成",
+    "title": "Prompt Cache 的价值与原理：少算重复前缀，降低成本和延迟",
+    "author": "amdahliu",
+    "date": "2026-07-07",
+    "link": "https://km.woa.com/articles/show/664742?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "663420",
+    "direction": "素材生成",
+    "title": "文生图评测基准与模型排名调研",
+    "author": "kumani",
+    "date": "2026-06-18",
+    "link": "https://km.woa.com/articles/show/663420?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "663676",
+    "direction": "素材生成",
+    "title": "从 AI 生图到创意工作台：妙思画布的产品与技术实践",
+    "author": "perryjiang",
+    "date": "2026-06-24",
+    "link": "https://km.woa.com/articles/show/663676?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
     "id": "662739",
     "direction": "素材生成",
     "title": "CodeBuddy × 混元生图实战：用 CLI Skill 一键出图",
