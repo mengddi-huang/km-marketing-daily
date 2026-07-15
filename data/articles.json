@@ -1,5 +1,115 @@
 [
   {
+    "id": "664910",
+    "direction": "素材生成",
+    "title": "不只生图：让 AI 帮你交付设计、视频、3D 到 UI —— 腾讯设计 Miora 全量开放",
+    "author": "hazelcheng",
+    "date": "2026-07-10",
+    "link": "https://km.woa.com/articles/show/664910?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665097",
+    "direction": "创意生成",
+    "title": "For CodeBuddy：一套 AI 编程协作 Prompt",
+    "author": "chiboomli",
+    "date": "2026-07-13",
+    "link": "https://km.woa.com/articles/show/665097?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665074",
+    "direction": "创意生成",
+    "title": "商汤科技：从创意盲盒到效果闭环，AI 营销工业化实战 | 第三届腾讯营销之声生态路演",
+    "author": "lindsaylv",
+    "date": "2026-07-13",
+    "link": "https://km.woa.com/articles/show/665074?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664949",
+    "direction": "创意生成",
+    "title": "【课程资料】AI如何助力广告视觉平面创意 | AI提效案例",
+    "author": "v_ljyingluo, 共同作者: nirenzhang",
+    "date": "2026-07-10",
+    "link": "https://km.woa.com/articles/show/664949?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "664897",
+    "direction": "创意生成",
+    "title": "WorkBuddy 设计创意模式：用对话驱动设计，让设计回归想法本身",
+    "author": "jenezhang",
+    "date": "2026-07-09",
+    "link": "https://km.woa.com/articles/show/664897?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "",
+    "direction": "广告投放",
+    "title": "Agent 评测实践：多变量对比与归因分析",
+    "author": "billdhpeng",
+    "date": "2026-06-16",
+    "link": "",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665167",
+    "direction": "营销活动",
+    "title": "26年6月进出口：科技周期带动贸易加快增长",
+    "author": "weixuanchen",
+    "date": "2026-07-14",
+    "link": "https://km.woa.com/articles/show/665167?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665161",
+    "direction": "营销活动",
+    "title": "徐樱丹：在AI 时代的不确定中一起探索营销人的确定性 | 第三届腾讯营销之声生态路演",
+    "author": "lindsaylv",
+    "date": "2026-07-14",
+    "link": "https://km.woa.com/articles/show/665161?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665090",
+    "direction": "营销活动",
+    "title": "深度传媒：海尔全球快闪活动——以多元体育赛事 IP 为情感纽带深化品牌认知 | 第三届腾讯营销之声生态路演",
+    "author": "lindsaylv",
+    "date": "2026-07-13",
+    "link": "https://km.woa.com/articles/show/665090?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665089",
+    "direction": "营销活动",
+    "title": "旭星佳程广告：从情绪场共振到自传播力激活——长线游戏IP增值探索 | 第三届腾讯营销之声生态路演",
+    "author": "lindsaylv",
+    "date": "2026-07-13",
+    "link": "https://km.woa.com/articles/show/665089?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
+    "id": "665087",
+    "direction": "营销活动",
+    "title": "养丰人科技：从AI判断力、原生综艺到本土内容的全球表达 | 第三届腾讯营销之声生态路演",
+    "author": "lindsaylv",
+    "date": "2026-07-13",
+    "link": "https://km.woa.com/articles/show/665087?jumpfrom=kmmcp",
+    "reads": "",
+    "likes": ""
+  },
+  {
     "id": "664740",
     "direction": "创意生成",
     "title": "深度解析 Prompt Cache 底层原理与工程实践",
